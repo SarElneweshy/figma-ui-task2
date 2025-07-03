@@ -1,0 +1,133 @@
+body{
+    font-family: 'DM Sans';
+    width: 1400px;
+    background-color: #2F1893;
+    margin: auto;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    margin-top: 53px;
+    margin-bottom:89px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h1{
+    /* margin: auto; */
+    font-family: 'Poppins';
+    font-weight:700;
+    font-size: 24px;
+    line-height:100%;
+    letter-spacing: -0.29px;
+    /* margin-right:719px ; */
+    color: #FFFFFF;
+    display: flex;
+    justify-content:flex-start;
+}
+nav ul{
+    padding-top: 7.4px;
+    padding-bottom: 4.6px;
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    
+}
+nav a {
+    margin-right: 36px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size:18px ;
+    line-height:28px ;
+    letter-spacing:0px ;
+}
+.sign_up_button {
+    width: 100px;
+    height: 40px;
+    border-radius: 100px;
+    background-color: #482BE7;
+    padding: 7px 18px;
+}
+section{
+    text-align: center;
+}
+main section{
+    width: 770px;
+    height: 499.4px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+}
+article h2{
+    /* text-align: center; */
+    margin: auto;
+    width: 770px;
+    height: 172px;
+    font-weight:700;
+    font-size: 72px;
+    line-height:86px;
+    letter-spacing: -1px;
+    color: #FFFFFF;
+    margin-bottom: 43.8px;
+}
+article p{
+    /* text-align: center; */
+    margin: auto;
+    width: 607px;
+    height:96px;
+    font-weight:500;
+    font-size: 22px;
+    line-height:32px;
+    letter-spacing: 0px;
+    color:#FFFFFF;
+    margin-bottom: 73.2px;
+}
+form{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    gap: 10px;
+    margin-bottom:54.4px ;
+}
+form input{
+    border-radius: 100px;
+    border-color: #FFFFFF;
+    opacity: 40%;
+    background-color: transparent;
+    border: 1px solid #FFFFFF; /* لو عايزة بوردر أبيض مثلاً */
+    color: #FFFFFF;
+    padding: 18px 228px 16px 24px;
+    
+}
+form a{
+    margin: auto;
+    margin-left: 10px;
+    border-radius: 30px;
+    font-weight:600;
+    font-family:'Poppins';
+    font-size: 20px;
+    line-height:26px;
+    letter-spacing: -0.25px;
+    color:#FFFFFF;
+    background-color: #25DAC5;
+    text-decoration: none;
+    padding:16px 36px 18px 33px ;
+}
+main small{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 22 ;
+    font-family:'Poppins';
+    font-weight:400;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing:-0.2px ;
+    color:#FFFFFF ;
+    opacity: 30%;
+}
