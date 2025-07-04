@@ -57,7 +57,8 @@ Simply open the HTML files in any modern browser:
 <img src="reference/header_2_reference.png" alt="Header 2 Figma Reference" width="500"/>
 
 **My Result:**
-<img src="result/header_2_result.png" alt="Header 2 My Result" width="500"/>
+<img src="result/header_2_result.jpg" alt="Header 2 My Result" width="500"/>
+---
 
 ### 🔹 Header 19
 
@@ -65,5 +66,4 @@ Simply open the HTML files in any modern browser:
 <img src="reference/header_19_reference.png" alt="Header 19 Figma Reference" width="500"/>
 
 **My Result:**
-<img src="result/header_19_result.png" alt="Header 19 My Result" width="500"/>
-
+<img src="result/header_19_result.jpg" alt="Header 19 My Result" width="500"/>
